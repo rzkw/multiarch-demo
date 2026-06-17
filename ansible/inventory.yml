@@ -1,0 +1,6 @@
+---
+all:
+  hosts:
+    acer:
+      ansible_host: acer
+      ansible_user: rizky
